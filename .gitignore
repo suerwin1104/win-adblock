@@ -1,0 +1,9 @@
+# Runtime logs and temporary test outputs
+*.log
+test_*.txt
+*.tmp
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
